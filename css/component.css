@@ -191,7 +191,7 @@
 	animation: FadeIn 4s linear 40s forwards;
 }
 
-@-webkit-keyframes FadeIn { 
+@-webkit-keyframes FadeIn {
 	0% {
 		opacity: 0;
 		text-shadow: 0 0 50px #fff;
@@ -202,7 +202,7 @@
 	}
 }
 
-@-moz-keyframes FadeIn { 
+@-moz-keyframes FadeIn {
 	0% {
 		opacity: 0;
 		text-shadow: 0 0 50px #fff;
@@ -213,7 +213,7 @@
 	}
 }
 
-@keyframes FadeIn { 
+@keyframes FadeIn {
 	0% {
 		opacity: 0;
 		text-shadow: 0 0 50px #fff;
